@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ashishjoshiaj
-- 👀 I’m interested in coding
+- 👀 I’m interested in problem solving
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ashishjoshiji26@gmail.com
+- 📫 reach me at ashishjoshiji22@gmail.com
 
 <!---
 ashishjoshiaj/ashishjoshiaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
