@@ -24,4 +24,4 @@ I am a passionate developer focused on solving real-world problems through data-
 
 ## 📫 Let's Connect
 - **Email:** [ashishjoshiji26@gmail.com](mailto:ashishjoshiji26@gmail.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/ashishjoshi2202)
+- **LinkedIn:** [www.linkedin.com/in/ashishjoshi2202](www.linkedin.com/in/ashishjoshi2202)
