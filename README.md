@@ -2,15 +2,9 @@
 
 ### Aspiring Software Engineer | Machine Learning Enthusiast | Open Source Contributor
 
-I am a passionate developer focused on solving real-world problems through data-driven solutions. Currently, I'm deep-diving into Machine Learning and its practical applications in open-source ecosystems.
+I am a passionate developer focused on solving real-world problems through data-driven solutions.
+Currently, I'm deep-diving into Machine Learning and its practical applications in open-source ecosystems.
 
----
-
-## 🚀 Path to GSoC 2026
-- **Focus Area:** Machine Learning, CV & Data Pipelines
-- **Current Goal:** Contributing to open source CV and ML projects, mastering Git workflows.
-
----
 
 ## 🛠️ Tech Stack & Tools
 
