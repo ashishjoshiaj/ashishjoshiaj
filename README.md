@@ -23,12 +23,12 @@ I am a passionate developer focused on solving real-world problems through data-
 ---
 
 ## 📈 GitHub Stats
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishjoshiaj&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishjoshiaj&layout=compact&theme=radical)
+
+<img src="https://github-readme-stats.vercel.app/api?username=ashishjoshiaj&show_icons=true&theme=radical" alt="Ashish's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishjoshiaj&layout=compact&theme=radical" alt="Top Langs" />
 
 ---
 
 ## 📫 Let's Connect
 - **Email:** [ashishjoshiji26@gmail.com](mailto:ashishjoshiji26@gmail.com)
 - **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
