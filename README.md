@@ -1,6 +1,6 @@
 # Hi there, I'm Ashish Joshi 👋
 
-### Aspiring Software Engineer | Machine Learning Enthusiast | Open Source Contributor
+### Aspiring Software Engineer | Machine Learning Enthusiast | Open Source Enthusiast
 
 I am a passionate developer focused on solving real-world problems through data-driven solutions.
 Currently, I'm deep-diving into Machine Learning and its practical applications in open-source ecosystems.
